@@ -1,5 +1,5 @@
 # Integrated 3D Interactive Drill Bit Visualization using Python
-This repository hosts a proof-of-concept, integrated 3D visualization of Tricone Bit and PDC Bit, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
+This repository hosts a proof-of-concept, integrated 3D interactive visualization of Tricone Bit and PDC Bit, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
 
 Github Pages Link: https://maribickpostanes.github.io/Integrated-Drill-Bit-Visualization-3D/
 

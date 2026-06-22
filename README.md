@@ -11,7 +11,7 @@ This repository hosts a proof-of-concept, integrated 3D interactive visualizatio
 - [Integrated 3D Interactive Drill Bit Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-plotly-oilandgas-ugcPost-7435623647765168128-uOBG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
 ## 3D Model Sources
-* **3D Models:** Tricone Drill Bit & PDC Drill Bit by Ekawira K. Napitupulu via GrabCAD
+* **3D Models:** Tricone Drill Bit and PDC Drill Bit by Ekawira K. Napitupulu via GrabCAD
 * **Source Files:**
   - Tricone Drill Bit.STEP (14.2 MB)
   - PDC Drill Bit.STEP (15.0 MB)
